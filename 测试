@@ -1,2 +1,1 @@
-Your SillyTavern is currently insecurely open to the public. Enable whitelisting, basic authentication or user accounts.
-Security has been overridden. If it's not a trusted network, change the settings.
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
