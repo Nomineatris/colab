@@ -1,12 +1,2 @@
-
-non-fatal error: failed to start server on IPv4
-Error: listen EADDRINUSE: address already in use 0.0.0.0:8000
-    at Server.setupListenHandle [as _listen2] (node:net:1907:16)
-    at listenInCluster (node:net:1964:12)
-    at node:net:2170:7
-    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
-  code: 'EADDRINUSE',
-  errno: -4091,
-  syscall: 'listen',
-  address: '0.0.0.0',
-  port: 8000
+Your SillyTavern is currently insecurely open to the public. Enable whitelisting, basic authentication or user accounts.
+Security has been overridden. If it's not a trusted network, change the settings.
